@@ -1,6 +1,6 @@
 ## Description
 
-![Detail](/images/details.png)
+![Detail](images/details.png)
 
 ## Initial Analysis
 
@@ -121,4 +121,4 @@ Providing these values satisfies both validation checks and reaches the success 
 
 As we use the extracted username and password we can see we successfully solved the crackme in the output screen.
 
-![Output](/images/output.png)
+![Output](images/output.png)
