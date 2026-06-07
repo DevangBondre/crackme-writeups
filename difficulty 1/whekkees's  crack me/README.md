@@ -1,6 +1,6 @@
 ## Crackme description
 <br>
-![Description](/images/details.png)
+[Description](/images/details.png)
 
 ## Initial Analysis
 
@@ -129,7 +129,7 @@ The success message is only printed when this comparison succeeds, confirming th
 
 ## Output
 
-![Output](/images/output.png)
+[Output](/images/output.png)
 
 From our analysis the recovered credentials are:
 
