@@ -59,7 +59,7 @@ builtin_strncpy(_Buf2,"flag{can-you-crack?}",0x15);
 builtin_strncpy(local_b0,"Access Denied...\n",0x12);
 ```
 
-At first glance, these strings appear important, especially the flag-like value. However, further analysis reveals that this portion of the program is intended to mislead the user.
+At first glance, these strings appear important, especially the "Access denied" value since it looks like this might be related to the crackme logic. However, further analysis reveals that these strings were never used in the program and were there just to mislead and confuse the user.
 
 The crackme then requests a password:
 
