@@ -259,7 +259,7 @@ The required inputs are:
 
 ```text
 Password: flag:igr0t-theking
-Name:       
+Name: igr0t 
 ```
 
 Providing both values successfully reaches the final success message:
